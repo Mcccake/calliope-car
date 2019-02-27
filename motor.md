@@ -4,5 +4,4 @@
 
 
 
-lösung
-http://github.com - automatic!
+lösung https://github.com/Mcccake/calliope-car/blob/master/loesung.md
