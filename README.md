@@ -1,10 +1,6 @@
 # calliope-car
-####Voraussetzungen:
 
-1. 2 calliope mini
-1. 1 9Volt batterie
-1. messensor 
-1. käbel
-1. 2 motern mit Reifen
-
-###
+###die hardware:
+https://github.com/Mcccake/calliope-car/blob/master/hardware.md
+###Die Motor programierung:
+https://github.com/Mcccake/calliope-car/blob/master/motor.md
