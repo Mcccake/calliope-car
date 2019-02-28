@@ -30,8 +30,8 @@ Alsnächstes fügen wir unserem Start block 2 elemente hinzu
 Jetzt beutzen wir die Variable, aber zuerst brauchen wir eine funktion "fallentscheidung" diese Funktion wird sagen ob 
 wir grade selber fahren oder ob das auto selber fährt. In dieser funktion überprüfen wir das so: wenn fahrtautonom auf 
 0 ist fahren wir selber wenn sie auf 1 ist fährt das Auto Selbständig. Dazu könen wir die funktion Autonom machen und 
-ganz einfach sagen das die Motoren A und B auf 100 fahren, da es ja wegen der funktion Ampelsystem nicht wo gegen fahren
-kann.
+ganz einfach sagen das die Motoren A und B auf 100 fahren, da es ja wegen der funktion "Ampelsystem"  gegen nichts 
+fahren kann.
 
 (img fallentscheidung)
 
