@@ -7,11 +7,12 @@
 1. 2 motern mit Reifen
 
  hier eine detalirte Anleitung zumbauen des
-  Autos https://leon-brachwitz.de/?p=328
+  Autos https://leon-brachwitz.de/?p=328 (die auch ich benutzt habe)
   
-sonst hier https://www.hackster.io/53937/calliope-mini-ferngesteuertes-auto-6fa93f
+sonst hier https://www.hackster.io/53937/calliope-mini-ferngesteuertes-auto-6fa93f 
+(die werden wir bei der programirung auch verwenden )
   
-  Aufden beiden genannten Seiten interesirt uns nur die Hardware da wir eine bessere 
+  Aufden beiden genannten Seiten interesirt uns jetzt erstaml nur mit dem  Hardware teil da wir eine bessere 
   Programmirung benutzen werden.
   
   
