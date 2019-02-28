@@ -44,6 +44,8 @@ wird dem motor gesagt Autonom und wenn man nochmal B drückt wird Autonomes fahr
 
 (img datenemfang)
 
-
+Jetzt noch die durch neigung gesteuerte lenkung einfügen und das wars für den motor calliope.
+Kleine0 knobel aufagbe, da es jtzt keine hife gibt für diese letzt aufgabe (lösung ist unten ;)
+#### [Nächster schritt: Fernsteuerung]()
 #
-#####[lösung](https://github.com/Mcccake/calliope-car/blob/master/loesung.md)
+####[lösung](https://github.com/Mcccake/calliope-car/blob/master/loesung.md)
