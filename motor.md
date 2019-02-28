@@ -35,8 +35,15 @@ fahren kann.
 
 (img fallentscheidung)
 
-Der aller letzteschritt ist das wir ein Signal empfangen und es deuten können(selber fahren oder Atonom)
-dazu brauchen wir unter funk datenpaket empafngen 
+Der aller letzteschritt ist das wir ein Signal empfangen und es deuten können/müssen (selber fahren oder Atonom)
+dazu brauchen wir unter Funk den block datenpaket empafngen. In den Packen wir  2 mal den block wenn dann,
+in den oberen fügen wir noch ein ansonsten hinzu, beim unteren nicht. Der Obere wird zum Selbersteuern benutz der untere
+wird für das Autonome fahren gebraucht. Wenn das Signal= Autonom ist und unsere Variable "fahrtAutonom" 0 ist wird sie
+au 1 gesetzt wenn sie auf 1 ist wird sie auf 0 gestezt,im klartext wenn man den befehl z.b durch drücken von B aktivirt
+wird dem motor gesagt Autonom und wenn man nochmal B drückt wird Autonomes fahren außgeschaltet und man fährt von alleine 
+
+(img datenemfang)
+
 
 #
 #####[lösung](https://github.com/Mcccake/calliope-car/blob/master/loesung.md)
