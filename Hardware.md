@@ -10,7 +10,7 @@
   Autos https://leon-brachwitz.de/?p=328 (die auch ich benutzt habe)
   
 sonst hier https://www.hackster.io/53937/calliope-mini-ferngesteuertes-auto-6fa93f 
-(die werden wir bei der programirung auch verwenden )
+(simpler und ohne ein Teile Parket kaufen)
   
   Aufden beiden genannten Seiten interesirt uns jetzt erstaml nur mit dem  Hardware teil da wir eine bessere 
   Programmirung benutzen werden.
