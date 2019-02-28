@@ -3,7 +3,7 @@
 Wir bauen ein mit calliope gesteurtes Auto was einerseitz durch die Neigung eines Calliope in die Gewünschte 
 richtung fährt und andererseitz auch alleine fahren kann...
 
-![bild-name](img/CAlliopeAuto.jpg)
+![bild-name](img/CalliopeAuto.jpg)
 
 (img calliope)
 
