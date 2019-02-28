@@ -1,6 +1,10 @@
-##Lösung Motor
+#Lösung Motor
 
-#####einfach kopieren und in das jave terminal von make code eintippen/einfügen
+#####Die lösung der Knobel Aufgabe:
+ (img lösung)
+ ##Das Gesampt Packet
+ (img alles)
+ #####einfach kopieren und in das jave terminal von make code eintippen/einfügen
 
 let geschwindigkeit = 0
 let y_achse = 0
@@ -57,6 +61,7 @@ basic.forever(() => {
         radio.sendValue("Autonom", Autonom)
     }
 })
+
 
 ##Lösung Fernsteuerung
 
