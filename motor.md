@@ -6,9 +6,11 @@ https://github.com/Mcccake/calliope-car/blob/master/Hardware.md
 ##
 Als erstes müssen wir den editor makecode aufruen dafür gehen wir auf die seite https://makecode.calliope.cc
 
-Jetzt finden wir die basis Programirung https://www.hackster.io/53937/calliope-mini-ferngesteuertes-auto-6fa93f 
-hier.    
  
+ Als erstes  müssen wir eine Verbindung zwischen den beiden Calliope herstellen also nehmen wir die 
+  baustene setze übertragung und setzte funkstäreke von dem Kasten Funk und packen 
+  es in die Startschleife, das machen wir in beide Calliope projekte (Vernsteuerung und Motor)
+
 
 
 
