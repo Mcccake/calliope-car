@@ -5,7 +5,7 @@ Als aller erstes brauchen wir den [Editor](https://makecode.calliope.cc) und dan
 Der nächste schritt ist genauso wie im bei der Motor Calliope beim start zu kucken ob er an ist indem man 2 Buchstaben 
 zeigt, danach wird eine Funk verbindung zur andern Calliope hergestellt 
 
-![bild-name](..img/Imgstartfern.png)      
+![bild-name](../img/Imgstartfern.png)      
 
 Um daten zu senden müssen wir selber erst durch eingaben wie z.b taste A empfangen
 

@@ -19,7 +19,7 @@ In unsere Funktion packen wir ein Logik Element nämlich das wenn dann sonst wen
 Als erstes wollen wir kucken ob ein element vor unserem auto ist, das bekommen wir hin indem wir ein 
 messensor an die spize des Fahrzeuges befestigen.
 
-![bild-name](..img/imgAmpel.png)
+![bild-name](../img/imgAmpel.png)
 
 Alsnächstes fügen wir unserem Start block 2 elemente hinzu 
 1. eine Zeichen folge von midestens 2 Buchstaben und einer pause von 2sekunden (2000mili)
@@ -33,7 +33,7 @@ wir grade selber fahren oder ob das auto selber fährt. In dieser funktion über
 ganz einfach sagen das die Motoren A und B auf 100 fahren, da es ja wegen der funktion "Ampelsystem"  gegen nichts 
 fahren kann.
 
-![bild-name](..img/fallentscheidung.png)
+![bild-name](../img/fallentscheidung.png)
 
 Der aller letzteschritt ist das wir ein Signal empfangen und es deuten können/müssen (selber fahren oder Atonom)
 dazu brauchen wir unter Funk den block datenpaket empafngen. In den Packen wir  2 mal den block wenn dann,
