@@ -1,4 +1,4 @@
-##Die Programmirung der Fernsteuerung
+## Die Programmirung der Fernsteuerung
 
 Als aller erstes brauchen wir den [Editor](https://makecode.calliope.cc) und dann kann es auch schon los gehen.
 
@@ -13,4 +13,4 @@ Um daten zu senden müssen wir selber erst durch eingaben wie z.b taste A empfan
 
 
 
-##[die Motor Programmirung](https://github.com/Mcccake/calliope-car/blob/master/motor.md)
+## [die Motor Programmirung](https://github.com/Mcccake/calliope-car/blob/master/motor.md)

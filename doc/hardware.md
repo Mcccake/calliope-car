@@ -1,10 +1,10 @@
-##Was benötigt ihr ?
+## Was benötigt ihr ?
 
 1. 2 calliope mini
 1. 1 9Volt batterie
-1. messensor 
-1. käbel
-1. 2 motern mit Reifen
+1. Messensor 
+1. Kabel
+1. 2 Motern mit Reifen
 
  [Hier eine detalirte Anleitung zum bauen des
   Autos (die auch ich benutzt habe)](https://leon-brachwitz.de/?p=328) 

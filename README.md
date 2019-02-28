@@ -11,5 +11,8 @@ Das alles habe ich in meinem Praktikum bei [ubirch](https://ubirch.de) bewerstel
 und dazu nochmal großes danke 
 
 
-####[Hardware](https://github.com/Mcccake/calliope-car/blob/master/Hardware.md) / [Die Motor Programmirung ](https://github.com/Mcccake/calliope-car/blob/master/motor.md) / [Fernsteuerung](https://github.com/Mcccake/calliope-car/blob/master/src/Fernsteuerung.md)
+#### 
+* [Hardware](https://github.com/Mcccake/calliope-car/blob/master/Hardware.md) / 
+* [Die Motor Programmirung ](https://github.com/Mcccake/calliope-car/blob/master/motor.md) / 
+* [Fernsteuerung](https://github.com/Mcccake/calliope-car/blob/master/src/Fernsteuerung.md)
                                                                                   ˆ
