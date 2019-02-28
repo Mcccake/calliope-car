@@ -15,7 +15,7 @@
   Aufden beiden genannten Seiten interesirt uns jetzt erstaml nur mit dem  Hardware teil da wir eine bessere 
   Programmirung benutzen werden.
   
-  
+  [Die Motor Programmirung ](https://github.com/Mcccake/calliope-car/blob/master/motor.md) / [Fernsteuerung](https://github.com/Mcccake/calliope-car/blob/master/src/Fernsteuerung.md)
   
   
   
