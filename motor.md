@@ -6,6 +6,7 @@ die Programirung...[die hardware ist hier zu finden](https://github.com/Mcccake/
 ##
 Als erstes müssen wir den editor [makecode](https://makecode.calliope.cc) aufruen 
 
+ (imgfahren)
  
  Als erstes  müssen wir eine Verbindung zwischen den beiden Calliope herstellen also nehmen wir die 
   baustene setze übertragung und setzte funkstäreke von dem Kasten Funk und packen 
@@ -16,11 +17,26 @@ AmpelSystem nänen.  Mit dieser Funktion wollen wir erreichn das das auto nie ge
 da es ja keinen Rückwertsgang hat (kann man auch nicht Programmieren). 
 In unsere Funktion packen wir ein Logik Element nämlich das wenn dann sonst wenn dann,ansonsten...
 Als erstes wollen wir kucken ob ein element vor unserem auto ist, das bekommen wir hin indem wir ein 
-mess 
+messensor an die spize des Fahrzeuges befestigen.
 
+(img Ampel)
 
+Alsnächstes fügen wir unserem Start block 2 elemente hinzu 
+1. eine Zeichen folge von midestens 2 Buchstaben und einer pause von 2sekunden (2000mili)
+1. Eine Variable "fahrtautonom" die wir später noch brauchen werden also fügen wir setzte fahrtautonom auf 0
 
+(img Start)
 
+Jetzt beutzen wir die Variable, aber zuerst brauchen wir eine funktion "fallentscheidung" diese Funktion wird sagen ob 
+wir grade selber fahren oder ob das auto selber fährt. In dieser funktion überprüfen wir das so: wenn fahrtautonom auf 
+0 ist fahren wir selber wenn sie auf 1 ist fährt das Auto Selbständig. Dazu könen wir die funktion Autonom machen und 
+ganz einfach sagen das die Motoren A und B auf 100 fahren, da es ja wegen der funktion Ampelsystem nicht wo gegen fahren
+kann.
+
+(img fallentscheidung)
+
+Der aller letzteschritt ist das wir ein Signal empfangen und es deuten können(selber fahren oder Atonom)
+dazu brauchen wir unter funk datenpaket empafngen 
 
 #
 #####[lösung](https://github.com/Mcccake/calliope-car/blob/master/loesung.md)
