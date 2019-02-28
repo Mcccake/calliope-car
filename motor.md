@@ -6,7 +6,7 @@ die Programirung...[die hardware ist hier zu finden](https://github.com/Mcccake/
 ##
 Als erstes müssen wir den editor [makecode](https://makecode.calliope.cc) aufruen 
 
- (imgfahren)
+![bild-name](img/fahren.png)
  
  Als erstes  müssen wir eine Verbindung zwischen den beiden Calliope herstellen also nehmen wir die 
   baustene setze übertragung und setzte funkstäreke von dem Kasten Funk und packen 
@@ -19,13 +19,13 @@ In unsere Funktion packen wir ein Logik Element nämlich das wenn dann sonst wen
 Als erstes wollen wir kucken ob ein element vor unserem auto ist, das bekommen wir hin indem wir ein 
 messensor an die spize des Fahrzeuges befestigen.
 
-(img Ampel)
+![bild-name](img/imgAmpel.png)
 
 Alsnächstes fügen wir unserem Start block 2 elemente hinzu 
 1. eine Zeichen folge von midestens 2 Buchstaben und einer pause von 2sekunden (2000mili)
 1. Eine Variable "fahrtautonom" die wir später noch brauchen werden also fügen wir setzte fahrtautonom auf 0
 
-(img Start)
+![bild-name](img/img%20Start.png)
 
 Jetzt beutzen wir die Variable, aber zuerst brauchen wir eine funktion "fallentscheidung" diese Funktion wird sagen ob 
 wir grade selber fahren oder ob das auto selber fährt. In dieser funktion überprüfen wir das so: wenn fahrtautonom auf 
@@ -33,7 +33,7 @@ wir grade selber fahren oder ob das auto selber fährt. In dieser funktion über
 ganz einfach sagen das die Motoren A und B auf 100 fahren, da es ja wegen der funktion "Ampelsystem"  gegen nichts 
 fahren kann.
 
-(img fallentscheidung)
+![bild-name](img/fallentscheidung.png)
 
 Der aller letzteschritt ist das wir ein Signal empfangen und es deuten können/müssen (selber fahren oder Atonom)
 dazu brauchen wir unter Funk den block datenpaket empafngen. In den Packen wir  2 mal den block wenn dann,
@@ -42,10 +42,10 @@ wird für das Autonome fahren gebraucht. Wenn das Signal= Autonom ist und unsere
 au 1 gesetzt wenn sie auf 1 ist wird sie auf 0 gestezt,im klartext wenn man den befehl z.b durch drücken von B aktivirt
 wird dem motor gesagt Autonom und wenn man nochmal B drückt wird Autonomes fahren außgeschaltet und man fährt von alleine 
 
-(img datenemfang)
+![bild-name](img/Datenpaket.png)
 
 Jetzt noch die durch neigung gesteuerte lenkung einfügen und das wars für den motor calliope.
 Kleine0 knobel aufagbe, da es jtzt keine hife gibt für diese letzt aufgabe (lösung ist unten ;)
 #### [Nächster schritt: Fernsteuerung](https://github.com/Mcccake/calliope-car/blob/master/src/Fernsteuerung.md)
 #
-####[lösung](https://github.com/Mcccake/calliope-car/blob/master/loesung.md)
+####[Lösung](https://github.com/Mcccake/calliope-car/blob/master/loesung.md)

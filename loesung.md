@@ -65,6 +65,8 @@ basic.forever(() => {
 
 ##Lösung Fernsteuerung
 
+(img alles Fern)
+
 let geschwindigkeit = 0
 let y_achse = 0
 let Autonom = 0
