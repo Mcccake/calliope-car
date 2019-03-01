@@ -48,4 +48,4 @@ Jetzt noch die durch Neigung gesteuerte Lenkung einfügen und das wars für den 
 Kleine Knobelaufgabe, da es jetzt keine Hilfe gibt für diese letzt Aufgabe (lösung ist unten ;)
 #### [Nächster schritt: Fernsteuerung](https://github.com/Mcccake/calliope-car/blob/master/doc/fernsteuerung.md)
 #
-#### [Lösung](https://github.com/Mcccake/calliope-car/blob/master/loesung.md)
+#### [Lösung](https://github.com/Mcccake/calliope-car/blob/master/doc/loesung.md)
