@@ -1,13 +1,13 @@
 # calliope-car
 
-Wir bauen ein mit calliope gesteurtes Auto was einerseitz durch die Neigung eines Calliope in die Gewünschte 
-richtung fährt und andererseitz auch alleine fahren kann...
+Wir bauen ein mit Calliope gesteuertes Auto, das einerseits durch die Neigung eines Calliope in die gewünschte 
+Richtung fährt und andererseits auch alleine fahren kann...
 
 ![bild-name](img/CalliopeAuto.jpg)
 
 
-Das alles habe ich in meinem Praktikum bei [ubirch](https://ubirch.de) bewerstelligt 
-und dazu nochmal großes danke 
+Das alles habe ich in meinem Praktikum bei [ubirch](https://ubirch.de) bewerkstelligt 
+und dazu nochmal großes Danke 
 
 
 #### 

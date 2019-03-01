@@ -1,19 +1,18 @@
 ## Die Programmirung der Fernsteuerung
 
-Als aller erstes brauchen wir den [Editor](https://makecode.calliope.cc) und dann kann es auch schon los gehen.
+Als allererstes brauchen wir den [Editor](https://makecode.calliope.cc) und dann kann es auch schon los gehen.
 
-Der nächste schritt ist genauso wie im bei der Motor Calliope beim start zu kucken ob er an ist indem man 2 Buchstaben 
-zeigt, danach wird eine Funk verbindung zur andern Calliope hergestellt 
+Der nächste Schritt ist, genauso wie beim Motor-Calliope, beim start zu gucken, ob er an ist, indem man 2 Buchstaben 
+zeigt. Danach wird eine Funkverbindung zur anderen Calliope hergestellt. 
 
 ![bild-name](../img/Imgstartfern.png)      
 
-Um daten zu senden müssen wir selber erst durch eingaben wie z.b taste A empfangen um sie dann zum Motorcalliope zu
-schicken.
+Um Daten zu senden, müssen wir selber erst durch Eingaben wie z.B. Taste A ein Signal empfangen, um es dann zum Motor-Calliope zu schicken.
 
 ![bild-name](../img/dauerhaftfern.png)
 
 
-und jetzt nochmal alles zusammengestzt:
+Und jetzt nochmal alles zusammengesetzt:
 
 ![bild-allesfern](../img/allesfern.png)
 
