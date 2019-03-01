@@ -65,7 +65,7 @@ basic.forever(() => {
 
 ## Lösung Fernsteuerung
 
-(img alles Fern)
+![bild-allesfern](../img/allesfern.png)
 
 let geschwindigkeit = 0
 let y_achse = 0
