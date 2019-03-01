@@ -7,9 +7,15 @@ zeigt, danach wird eine Funk verbindung zur andern Calliope hergestellt
 
 ![bild-name](../img/Imgstartfern.png)      
 
-Um daten zu senden müssen wir selber erst durch eingaben wie z.b taste A empfangen
+Um daten zu senden müssen wir selber erst durch eingaben wie z.b taste A empfangen um sie dann zum Motorcalliope zu
+schicken.
+
+![bild-name](../img/dauerhaftfern.png)
 
 
+und jetzt nochmal alles zusammengestzt:
+
+![bild-allesfern](../img/allesfern.png)
 
 
 
