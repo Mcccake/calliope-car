@@ -1,10 +1,10 @@
 #Lösung Motor
 
-#####Die lösung der Knobel Aufgabe:
+#####Die lösung der Knobelaufgabe:
  (img lösung)
- ##Das Gesampt Packet
+ ##Das Gesamtpaket
  (img alles)
- #####einfach kopieren und in das jave terminal von make code eintippen/einfügen
+ #####einfach kopieren und in das java-Terminal von "make code" eintippen/einfügen.
 
 let geschwindigkeit = 0
 let y_achse = 0
