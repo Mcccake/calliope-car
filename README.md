@@ -12,7 +12,7 @@ und dazu nochmal großes danke
 
 
 #### 
-* [Hardware](https://github.com/Mcccake/calliope-car/blob/master/Hardware.md) / 
-* [Die Motor Programmirung ](https://github.com/Mcccake/calliope-car/blob/master/motor.md) / 
-* [Fernsteuerung](https://github.com/Mcccake/calliope-car/blob/master/src/Fernsteuerung.md)
+* [Hardware](https://github.com/Mcccake/calliope-car/blob/master/doc/hardware.md) / 
+* [Die Motor Programmirung ](https://github.com/Mcccake/calliope-car/blob/master/doc/motor.md) / 
+* [Fernsteuerung](https://github.com/Mcccake/calliope-car/blob/master/doc/fernsteuerung.md)
                                                                                   ˆ

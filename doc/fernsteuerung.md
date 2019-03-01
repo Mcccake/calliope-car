@@ -13,4 +13,4 @@ Um daten zu senden müssen wir selber erst durch eingaben wie z.b taste A empfan
 
 
 
-## [die Motor Programmirung](https://github.com/Mcccake/calliope-car/blob/master/motor.md)
+## [die Motor Programmirung](https://github.com/Mcccake/calliope-car/blob/master/doc/motor.md)

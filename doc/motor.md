@@ -1,7 +1,7 @@
 # Unsere Motorsteuerung
 
 damit der calliope fahren brauch er zum einen die hardware und andererseitz 
-die Programirung...[die hardware ist hier zu finden](https://github.com/Mcccake/calliope-car/blob/master/Hardware.md)
+die Programirung...[die hardware ist hier zu finden](https://github.com/Mcccake/calliope-car/blob/master/doc/Hardware.md)
 
 ##
 Als erstes müssen wir den editor [makecode](https://makecode.calliope.cc) aufruen 
@@ -46,6 +46,6 @@ wird dem motor gesagt Autonom und wenn man nochmal B drückt wird Autonomes fahr
 
 Jetzt noch die durch neigung gesteuerte lenkung einfügen und das wars für den motor calliope.
 Kleine0 knobel aufagbe, da es jtzt keine hife gibt für diese letzt aufgabe (lösung ist unten ;)
-#### [Nächster schritt: Fernsteuerung](https://github.com/Mcccake/calliope-car/blob/master/src/Fernsteuerung.md)
+#### [Nächster schritt: Fernsteuerung](https://github.com/Mcccake/calliope-car/blob/master/doc/fernsteuerung.md)
 #
 #### [Lösung](https://github.com/Mcccake/calliope-car/blob/master/loesung.md)
