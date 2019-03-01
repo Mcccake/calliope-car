@@ -2,7 +2,7 @@
 
 ##### Die lösung der Knobel Aufgabe:
 ![bild-name](../img/lösung.png)
- ##Das Gesampt Packet
+ ## Das Gesampt Packet
 ![bild-alles](../img/alles.png)
  ##### einfach kopieren und in das jave terminal von make code eintippen/einfügen
 
@@ -63,7 +63,7 @@ basic.forever(() => {
 })
 
 
-##Lösung Fernsteuerung
+## Lösung Fernsteuerung
 
 (img alles Fern)
 
