@@ -1,9 +1,9 @@
 #Lösung Motor
 
 #####Die lösung der Knobel Aufgabe:
- (img lösung)
+![bild-name](../img/lösung.png)
  ##Das Gesampt Packet
- (img alles)
+![bild-alles](../img/alles.png)
  #####einfach kopieren und in das jave terminal von make code eintippen/einfügen
 
 let geschwindigkeit = 0
